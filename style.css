@@ -27,6 +27,14 @@ h2 {
   background-color: tomato;
 }
 
+strong {
+  color: yellow;
+}
+
+em {
+  color: red;
+}
+
 #example {
   color: green;
 }
