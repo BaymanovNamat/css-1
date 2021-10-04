@@ -21,6 +21,7 @@ h2 {
 
 .red-background-yellow {
   background-color: green;
+color: red;
 }
 
 .red-background {
@@ -41,4 +42,16 @@ em {
 
 p {
   color: darkmagenta;
+}
+
+/* new example*/
+
+h2 {
+  color: rgb(238, 37, 11);
+}
+aside {
+  color: rgb(213, 13, 240);
+}
+header {
+  color: rgb(10, 14, 245);
 }
