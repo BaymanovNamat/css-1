@@ -10,3 +10,27 @@ h1 {
 #hello {
   color: green;
 }
+
+h2 {
+  color: black;
+}
+
+.yellow {
+  color: yellow;
+}
+
+.red-background-yellow {
+  background-color: green;
+}
+
+.red-background {
+  background-color: tomato;
+}
+
+#example {
+  color: green;
+}
+
+p {
+  color: darkmagenta;
+}
