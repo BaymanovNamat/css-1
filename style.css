@@ -55,3 +55,28 @@ aside {
 header {
   color: rgb(10, 14, 245);
 }
+main {
+  color: rgb(8, 235, 57);
+}
+article {
+  color: rgb(243, 9, 9);
+}
+header {
+  color: rgb(10, 241, 21);
+}
+.example-1 {
+  background-color: rgb(240, 178, 6);
+}
+.example-2 {
+  background-color: rgba(145, 5, 180, 0.904);
+}
+.example-3 {
+  background-color: rgba(0, 100, 0, 0.74);
+}
+.example-4 {
+  background-color: rgba(139, 0, 0, 0.911);
+}
+.example-5 {
+  background-color: rgb(241, 30, 241);
+}
+
